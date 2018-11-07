@@ -125,3 +125,5 @@ Some people who worked on this project :
 ## Petit test des déclencheur configurer au niveau de Jenkins
 ##troisieme commit de la  part de adrien niokhor
 ##un commit de part de Niass 
+##Adrien et Niass
+
